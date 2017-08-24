@@ -1,5 +1,5 @@
 # GitHub地址 #
-* [泛聊](https://github.com/luoyou592/WChat)
+* [微聊](https://github.com/luoyou592/WChat)
 * [其他IM开源项目](https://www.imgeek.org/code/)
 
 # 项目简介 #
