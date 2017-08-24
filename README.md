@@ -152,7 +152,7 @@ MVVM主要应用于WPF, Silverlight, Caliburn, nRoute等。
 * BaseFragment
 
 # Splash界面 #
-![Splash界面](img/splash.png)
+![Splash界面](splash.png)
 ## 功能需求 ##
 1. 如果没有登录，延时2s, 跳转到登录界面
 2. 如果已经登录，则跳转到主界面
